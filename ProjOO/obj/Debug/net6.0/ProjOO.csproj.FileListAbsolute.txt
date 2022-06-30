@@ -1,0 +1,15 @@
+C:\Cursos\dotnet\ProjOO\bin\Debug\net6.0\ProjOO.exe
+C:\Cursos\dotnet\ProjOO\bin\Debug\net6.0\ProjOO.deps.json
+C:\Cursos\dotnet\ProjOO\bin\Debug\net6.0\ProjOO.runtimeconfig.json
+C:\Cursos\dotnet\ProjOO\bin\Debug\net6.0\ProjOO.dll
+C:\Cursos\dotnet\ProjOO\bin\Debug\net6.0\ProjOO.pdb
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ProjOO.csproj.AssemblyReference.cache
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ProjOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ProjOO.AssemblyInfoInputs.cache
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ProjOO.AssemblyInfo.cs
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ProjOO.csproj.CoreCompileInputs.cache
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ProjOO.dll
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\refint\ProjOO.dll
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ProjOO.pdb
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ProjOO.genruntimeconfig.cache
+C:\Cursos\dotnet\ProjOO\obj\Debug\net6.0\ref\ProjOO.dll
