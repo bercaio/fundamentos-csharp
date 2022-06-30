@@ -1,0 +1,15 @@
+C:\Cursos\dotnet\Moedas\bin\Debug\net6.0\Moedas.exe
+C:\Cursos\dotnet\Moedas\bin\Debug\net6.0\Moedas.deps.json
+C:\Cursos\dotnet\Moedas\bin\Debug\net6.0\Moedas.runtimeconfig.json
+C:\Cursos\dotnet\Moedas\bin\Debug\net6.0\Moedas.dll
+C:\Cursos\dotnet\Moedas\bin\Debug\net6.0\Moedas.pdb
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\Moedas.csproj.AssemblyReference.cache
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\Moedas.AssemblyInfoInputs.cache
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\Moedas.AssemblyInfo.cs
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\Moedas.dll
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\refint\Moedas.dll
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\Moedas.pdb
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\Moedas.genruntimeconfig.cache
+C:\Cursos\dotnet\Moedas\obj\Debug\net6.0\ref\Moedas.dll

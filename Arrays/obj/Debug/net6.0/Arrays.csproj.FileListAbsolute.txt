@@ -1,0 +1,15 @@
+C:\Cursos\dotnet\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Cursos\dotnet\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Cursos\dotnet\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Cursos\dotnet\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Cursos\dotnet\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Cursos\dotnet\Arrays\obj\Debug\net6.0\ref\Arrays.dll

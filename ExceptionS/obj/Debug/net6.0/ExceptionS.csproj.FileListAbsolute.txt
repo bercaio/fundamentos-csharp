@@ -1,0 +1,15 @@
+C:\Cursos\dotnet\ExceptionS\bin\Debug\net6.0\ExceptionS.exe
+C:\Cursos\dotnet\ExceptionS\bin\Debug\net6.0\ExceptionS.deps.json
+C:\Cursos\dotnet\ExceptionS\bin\Debug\net6.0\ExceptionS.runtimeconfig.json
+C:\Cursos\dotnet\ExceptionS\bin\Debug\net6.0\ExceptionS.dll
+C:\Cursos\dotnet\ExceptionS\bin\Debug\net6.0\ExceptionS.pdb
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ExceptionS.csproj.AssemblyReference.cache
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ExceptionS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ExceptionS.AssemblyInfoInputs.cache
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ExceptionS.AssemblyInfo.cs
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ExceptionS.csproj.CoreCompileInputs.cache
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ExceptionS.dll
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\refint\ExceptionS.dll
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ExceptionS.pdb
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ExceptionS.genruntimeconfig.cache
+C:\Cursos\dotnet\ExceptionS\obj\Debug\net6.0\ref\ExceptionS.dll
