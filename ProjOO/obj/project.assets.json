@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\dotnet\\ProjOO\\ProjOO.csproj",
+      "projectUniqueName": "C:\\Cursos\\dotnet\\scripts-course-balta.io\\ProjOO\\ProjOO.csproj",
       "projectName": "ProjOO",
-      "projectPath": "C:\\Cursos\\dotnet\\ProjOO\\ProjOO.csproj",
+      "projectPath": "C:\\Cursos\\dotnet\\scripts-course-balta.io\\ProjOO\\ProjOO.csproj",
       "packagesPath": "C:\\Users\\Caio Bernardineli\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\dotnet\\ProjOO\\obj\\",
+      "outputPath": "C:\\Cursos\\dotnet\\scripts-course-balta.io\\ProjOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Caio Bernardineli\\AppData\\Roaming\\NuGet\\NuGet.Config"

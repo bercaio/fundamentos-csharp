@@ -1,11 +1,14 @@
+using ProjOO.NotificationContext;
+using ProjOO.SharedContext;
+
 namespace ProjOO.ContentContext
 {
-    public class CareerItem
+    public class CareerItem : Base
     {
         public CareerItem(int ordem, string title, string description, Course course)
         {
             if (course == null)
-                throw new System.Exception("O curso nao pode ser NULL");
+                AddNotification(new Notification("Course", "Curso invalido"));
 
             Ordem = ordem;
             Title = title;

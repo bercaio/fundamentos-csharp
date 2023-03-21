@@ -1,7 +1,9 @@
+using ProjOO.SharedContext;
+
 namespace ProjOO.ContentContext
 {
 
-    public class Module
+    public class Module : Base
     {
         public Module()
         {
